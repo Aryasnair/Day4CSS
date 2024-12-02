@@ -20,7 +20,12 @@ h1.a1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: small;
     font-weight: 100;
-    
+    position:relative;
+}
+.grp1 h1{
+    position:absolute;
+    top: 0px;
+    left: 40px;
 }
 span{
     background-color: rgb(187, 245, 226);
